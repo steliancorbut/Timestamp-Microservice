@@ -17,15 +17,13 @@ After download/unzip/installation, in resulted folder run:
 
 to run/develop run
 - `node server.js` and the server will wait at http://localhost:3000
-- in browser access http://localhost:3000 and give an url like in Example Usage
-
-and will get an output like
-{"unix":1451001600000, "utc":"Fri, 25 Dec 2015 00:00:00 GMT"}
+- in browser access http://localhost:3000 and give an url like in Example Usage below
+and will get an output like {"unix":1451001600000, "utc":"Fri, 25 Dec 2015 00:00:00 GMT"}
 
 #### Example Usage
 
-- `http://localhost:3000//api/timestamp/2015-12-25` and will get an output like 
-- `{"unix":1451001600000, "utc":"Fri, 25 Dec 2015 00:00:00 GMT"}` (Example Output)
+- input url in browser `http://localhost:3000/api/timestamp/2015-12-25` and will get an output like 
+- example Output `{"unix":1451001600000, "utc":"Fri, 25 Dec 2015 00:00:00 GMT"}` 
 
 ## Copyright and License
 
