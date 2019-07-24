@@ -6,7 +6,7 @@
 
 ## Download and Installation
 
-To begin using this template, choose one of the following options to get started:
+To begin using this app, choose one of the following options to install/get started:
 * [Download the latest github repo archive](https://github.com/steliancorbut/Timestamp-Microservice)
 * Clone the repo: `git clone https://github.com/steliancorbut/Timestamp-Microservice.git`
 
@@ -16,7 +16,7 @@ After download/unzip/installation, in resulted folder run:
 - `npm install` for node_modules. (Node.js must exist)
 
 to run/develop run
-- `node server.js` and the server will wait at http://localhost:3000
+- `node server.js` and the server will listen at http://localhost:3000
 - in browser access http://localhost:3000 and give an url like in Example Usage below
 and will get an output like {"unix":1451001600000, "utc":"Fri, 25 Dec 2015 00:00:00 GMT"}
 
